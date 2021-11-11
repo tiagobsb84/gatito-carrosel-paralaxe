@@ -1,0 +1,12 @@
+@import url("./_reset.css");
+@import url("../css/_variaveis.css");
+@import url("../css/_cabecalho.css");
+
+body {
+  font-family: "Overpass", sans-serif;
+}
+
+.container {
+  padding-right: 2rem;
+  padding-left: 2rem;
+}
