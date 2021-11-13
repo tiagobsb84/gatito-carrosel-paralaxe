@@ -1,9 +1,15 @@
 @import url("./_reset.css");
 @import url("../css/_variaveis.css");
 @import url("../css/_cabecalho.css");
+@import url("../css/_produto.css");
+@import url("../css/_outros-produtos.css");
+@import url("../css/_carousel.css");
+@import url("../css/_rodape.css");
 
 body {
   font-family: "Overpass", sans-serif;
+
+  perspective: 1px;
 }
 
 .container {
